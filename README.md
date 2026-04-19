@@ -9,28 +9,7 @@
 
 ---
 
-## 🎮 **Play Now!**
-
-> **Live Demo:** [hamdan-saddique-ai.github.io/Arrow-Escape-Game](https://hamdan-saddique-ai.github.io/Arrow-Escape-Game)
-
----
-
-## 📸 **Game Preview**
-┌─────────────────────────────────────────────┐
-│ Score: 420 │ High Score: 1337 │ Time: 18s │
-├─────────────────────────────────────────────┤
-│ │
-│ ⬅️ 🎯 ➡️ │
-│ 👁️👁️ │
-│ ▼ │
-│ 🔴 💙 🔴 │
-│ │
-│ Collect 💙 Avoid 🔴 │
-│ │
-└─────────────────────────────────────────────┘
 🎮 Use Arrow Keys to Move
-
-text
 
 ---
 
