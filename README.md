@@ -112,12 +112,6 @@ v1.0.0 (2026-04-19)
 
 🎨 Visual effects & animations
 
-📞 Connect With Me
-https://img.shields.io/badge/GitHub-Hamdan--Saddique--ai-181717?style=for-the-badge&logo=github
-https://img.shields.io/badge/LinkedIn-Hamdan%2520Saddique-0077B5?style=for-the-badge&logo=linkedin
-https://img.shields.io/badge/Twitter-@HamdanSaddique-1DA1F2?style=for-the-badge&logo=twitter
-https://img.shields.io/badge/Portfolio-Hamdan%2520Saddique-000000?style=for-the-badge&logo=vercel
-
 💖 Support
 If you enjoyed this game, please:
 
